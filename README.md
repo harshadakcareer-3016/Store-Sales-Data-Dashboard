@@ -25,4 +25,5 @@ This project analyzes store sales data using Microsoft Excel to understand sales
 - Highlighted high and low performing products
 
 ✅ Conclusion
+
 The Store Sales Dashboard provides a clear visual representation of sales performance. It helps businesses monitor key metrics such as sales, profit, and product performance, enabling better planning and data-driven decisions.
